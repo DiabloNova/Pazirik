@@ -56,6 +56,7 @@
 
 
 ---
+![reports mind map ](https://raw.githubusercontent.com/DiabloNova/Pazirik/refs/heads/main/NotebookLM%20Mind%20Map%20(1).png)
 
 
 #### **۱. وضعیت فنی Abadisparsian.com**
